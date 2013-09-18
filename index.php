@@ -6,7 +6,7 @@
     </head>
     <body>
 		<?php
-		echo "Hola como estan 56 dx";
+		echo "Hola como	q	q estan 56 dx";
 		?>
     </body>
 </html>
